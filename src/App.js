@@ -66,7 +66,7 @@ class App extends React.Component {
             href=""
             onClick={e => this.increment(e)}
           >
-            Incrementar Contador {this.busqueda}
+            Incrementar Contador
           </a>
         </header>
         <br />
